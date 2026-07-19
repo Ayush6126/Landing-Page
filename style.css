@@ -2,6 +2,10 @@ body{
  background-color: #030307 !important;
  color: white;
 }
+body{
+  padding: 0px;
+  margin: 0px;
+}
 .btn{
   border: 1px solid gold;
   border-radius: 4px;
